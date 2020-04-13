@@ -1,6 +1,5 @@
 # Easy-Apply-Bot-Linkedin-
 
-# Easy Apply Bot Linkedin 
 Automate the application process on LinkedIn
 
 # Usage
